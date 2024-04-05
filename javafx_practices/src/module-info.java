@@ -1,0 +1,8 @@
+module javafx_practices {
+	requires javafx.controls;
+	requires javafx.graphics;
+	requires javafx.base;
+	
+	opens application to javafx.graphics, javafx.fxml;
+	opens pactice to javafx.graphics, javafx.fxml;
+}

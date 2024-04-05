@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\Rakib\program\Java-Client-to-client-chat-using-sockets.-master"/>
+			<item value="D:\Rakib\program\java-swing-chat-application-main"/>
+			<item value="D:\Rakib\program\Multi-Client-Chat-Application-master"/>
+			<item value="D:\Rakib\program\Multi-Client-Chat-App-master"/>
+			<item value="C:\Users\hired\Desktop\201902088_Raquib\lab_Final"/>
+			<item value="D:\Rakib\program\java UI source code\java-ui-dashboard-001-main"/>
+			<item value="D:\Rakib\program\University-Management-System-master\University Management System"/>
+			<item value="D:\Rakib\program\other programing\servelet"/>
+			<item value="D:\Rakib\program\servelet"/>
+			<item value="D:\Rakib\program\other programing\javafx-sdk-16"/>
+			<item value="D:\Rakib\program\other programing\mysql-connector-java-8.0.24"/>
+			<item value="D:\Rakib\program\other programing\PracticeProject"/>
+			<item value="D:\Rakib\program\other programing\java"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.jdt.ui.java"/>
+		</list>
+	</section>
+	<section name="CleanDialogSettings">
+		<item key="TOGGLE_SELECTED" value="true"/>
+		<item key="DIALOG_WIDTH" value="500"/>
+		<item key="DIALOG_HEIGHT" value="389"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>

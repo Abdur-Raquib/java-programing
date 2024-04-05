@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+org.eclipse.jdt.core.classpathVariable.ECLIPSE_HOME=D\:/installed software/eclipse/
+org.eclipse.jdt.core.classpathVariable.JRE_LIB=C\:/Users/hired/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208/jre/lib/jrt-fs.jar
+org.eclipse.jdt.core.classpathVariable.JRE_SRC=C\:/Users/hired/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208/jre/lib/src.zip
+org.eclipse.jdt.core.classpathVariable.JRE_SRCROOT=
+org.eclipse.jdt.core.classpathVariable.JUNIT_HOME=C\:/Users/hired/.p2/pool/plugins/org.junit_4.13.0.v20200204-1500.jar
+org.eclipse.jdt.core.classpathVariable.M2_REPO=C\:/Users/hired/.m2/repository
+org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled
+org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
+org.eclipse.jdt.core.compiler.codegen.targetPlatform=15
+org.eclipse.jdt.core.compiler.compliance=15
+org.eclipse.jdt.core.compiler.problem.assertIdentifier=error
+org.eclipse.jdt.core.compiler.problem.enumIdentifier=error
+org.eclipse.jdt.core.compiler.release=enabled
+org.eclipse.jdt.core.compiler.source=15
+org.eclipse.jdt.core.userLibrary.javafx=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<userlibrary systemlibrary\="false" version\="2">\r\n\t<archive path\="D\:/Rakib/program/javafx-sdk-18.0.1/lib/javafx.base.jar"/>\r\n\t<archive path\="D\:/Rakib/program/javafx-sdk-18.0.1/lib/javafx.controls.jar"/>\r\n\t<archive path\="D\:/Rakib/program/javafx-sdk-18.0.1/lib/javafx.fxml.jar"/>\r\n\t<archive path\="D\:/Rakib/program/javafx-sdk-18.0.1/lib/javafx.graphics.jar"/>\r\n\t<archive path\="D\:/Rakib/program/javafx-sdk-18.0.1/lib/javafx.media.jar"/>\r\n\t<archive path\="D\:/Rakib/program/javafx-sdk-18.0.1/lib/javafx.swing.jar"/>\r\n\t<archive path\="D\:/Rakib/program/javafx-sdk-18.0.1/lib/javafx.web.jar"/>\r\n\t<archive path\="D\:/Rakib/program/javafx-sdk-18.0.1/lib/javafx-swt.jar"/>\r\n</userlibrary>\r\n
+org.eclipse.jdt.core.userLibrary.swing-dependancy=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<userlibrary systemlibrary\="false" version\="2">\r\n\t<archive path\="D\:/Rakib/program/jdatechoser import/lib/jcalendar-1.4.jar"/>\r\n\t<archive path\="D\:/Rakib/program/jdatechoser import/lib/jgoodies-common-1.2.0.jar"/>\r\n\t<archive path\="D\:/Rakib/program/jdatechoser import/lib/jgoodies-looks-2.4.1.jar"/>\r\n\t<archive path\="D\:/Rakib/program/jdatechoser import/lib/junit-4.6.jar"/>\r\n\t<archive path\="D\:/Rakib/program/jdatechoser import/jxdatepicker-support-1.0.jar"/>\r\n\t<archive path\="D\:/Rakib/program/jdatechoser import/org-jdesktop-swingx-1.6-201002261215.jar"/>\r\n\t<archive path\="D\:/Rakib/program/jdatechoser import/lib/commons-beanutils-core-1.8.2.jar"/>\r\n\t<archive path\="D\:/Rakib/program/jdatechoser import/lib/commons-logging-1.1.1.jar"/>\r\n\t<archive path\="D\:/Rakib/program/jdatechoser import/lib/databinding-1.0.jar"/>\r\n\t<archive path\="D\:/Rakib/program/jdatechoser import/lib/filters-2.0.235.jar"/>\r\n\t<archive path\="D\:/Rakib/program/jdatechoser import/lib/jxdatepicker-support-1.0.jar"/>\r\n\t<archive path\="D\:/Rakib/program/jdatechoser import/lib/swing-layout-1.0.3.jar"/>\r\n\t<archive path\="D\:/Rakib/program/jdatechoser import/lib/swing-worker-1.1.jar"/>\r\n\t<archive path\="D\:/Rakib/program/jdatechoser import/lib/swingx-1.6.jar"/>\r\n</userlibrary>\r\n
